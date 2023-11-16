@@ -1,0 +1,30 @@
+@media screen and (max-width: 767px) {
+    .home-child {
+      /* Adjust styles for the main container */
+      width: 100%; /* Adjust the width to fit the screen */
+      height: auto; /* Adjust height as needed */
+      top: 0;
+      left: 0;
+      background-color: #e7eef4;
+    }
+  
+    /* Adjust specific elements for mobile screens */
+    .v904-nunny-012-1-icon {
+      width: 100%;
+      height: auto;
+      object-fit: contain; /* Adjust image fitting */
+      left: 0;
+    }
+  
+    /* Adjust positioning and sizing for the iPhone image */
+    .iphone-image {
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
+      text-align: center; /* Center the image */
+    }
+  
+    /* Additional mobile-specific adjustments can go here */
+  }
+  
